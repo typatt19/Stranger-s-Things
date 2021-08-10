@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgb(40, 163, 157);
+
+}
+
+#Title{
+    text-align: center;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 60px;
+}
+
+#app {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+#Greeting{
+    font-size: 35px;
+}
